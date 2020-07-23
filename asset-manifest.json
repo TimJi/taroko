@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taroko/static/css/main.87075b1a.chunk.css",
+    "main.js": "/taroko/static/js/main.69d61670.chunk.js",
+    "main.js.map": "/taroko/static/js/main.69d61670.chunk.js.map",
+    "runtime-main.js": "/taroko/static/js/runtime-main.45aa3bb7.js",
+    "runtime-main.js.map": "/taroko/static/js/runtime-main.45aa3bb7.js.map",
+    "static/js/2.27e918e4.chunk.js": "/taroko/static/js/2.27e918e4.chunk.js",
+    "static/js/2.27e918e4.chunk.js.map": "/taroko/static/js/2.27e918e4.chunk.js.map",
+    "index.html": "/taroko/index.html",
+    "precache-manifest.ef760227073530d2f1308061309b17b1.js": "/taroko/precache-manifest.ef760227073530d2f1308061309b17b1.js",
+    "service-worker.js": "/taroko/service-worker.js",
+    "static/css/main.87075b1a.chunk.css.map": "/taroko/static/css/main.87075b1a.chunk.css.map",
+    "static/js/2.27e918e4.chunk.js.LICENSE.txt": "/taroko/static/js/2.27e918e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45aa3bb7.js",
+    "static/js/2.27e918e4.chunk.js",
+    "static/css/main.87075b1a.chunk.css",
+    "static/js/main.69d61670.chunk.js"
+  ]
+}
